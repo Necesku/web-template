@@ -1,0 +1,29 @@
+@import url("./button.css");
+@import url("./card.css");
+@import url("./input.css");
+@import url("./textarea.css");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body {
+    background-color: hsl(231, 14%, 18%);
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    padding: 1vw;
+    padding-left: 8vw;
+    padding-right: 8vw;
+}
+
+.nmt {
+    margin-top: 0;
+}
+
+.nmb {
+    margin-bottom: 0;
+}
+
+.a {
+    text-decoration: none;
+}

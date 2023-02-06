@@ -1,0 +1,16 @@
+{
+  "name": "webbase",
+  "version": "1.0.0",
+  "description": "A base for my WebApps :)",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Necesku#0180",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "undici": "^5.17.1"
+  }
+}
